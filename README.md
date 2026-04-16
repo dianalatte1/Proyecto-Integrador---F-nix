@@ -77,4 +77,11 @@ Demostrar la correcta aplicación de:
 - Habilidades de comunicación en soporte técnico.
 - Buenas prácticas del manejo de ITIL en la gestión de incidentes.
 
-Todo esto a través de una simulación práctica que refleje situaciones reales en un entorno de Help Desk nivel 2.
+Todo esto a través de una simulación práctica que refleje situaciones reales en un entorno de Help Desk nivel 2.}
+
+
+## Presentación del Proyecto
+
+Puedes consultar la presentación oficial del proyecto en el siguiente enlace:
+
+https://canva.link/fedri7y6jbwoot4
